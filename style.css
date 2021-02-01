@@ -1,0 +1,26 @@
+.changecolor{
+    background-color: ;
+    
+
+}
+#p{
+    position: absolute;
+    top: 150px;
+    left: 450px;
+    font-size: 50px;
+
+}
+
+#decadeyear {
+    width: 500px;
+    color: green;
+    font-weight: normal;
+    }
+
+    ::placeholder{
+        color:darkgoldenrod;
+        
+    }
+
+    
+
